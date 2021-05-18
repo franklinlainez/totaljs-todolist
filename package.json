@@ -1,0 +1,12 @@
+{
+  "name": "totaljs-todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kn4rf/totaljs-todolist",
+  "author": "jodaafull <frolp91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.12.9",
+    "total4": "^0.0.40"
+  }
+}
